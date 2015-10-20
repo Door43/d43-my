@@ -1,4 +1,4 @@
-====== ၁။  ဖန်ဆင်းခြင်း ======
+====== ၁။ ဖန်ဆင်းခြင်း ======
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-01.jpg?direct&}}
 
@@ -6,7 +6,7 @@
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-02.jpg?direct&}}
 
-Then God said, "Let there be light!" And there was light. God saw that the light was good and called it "day." He separated it from the darkness, which he called "night." God created the light on the first day of creation.
+ဘုရားသခင်က လင်းစေလို့ ပြောရင် အလင်း ဖြစ်တယ်။  ဘုရားသခင်က အလင်းကိုတွေ့တဲ့အခါ သဘောကျပြီး “နေ့” လို့  သတ်မှတ်တယ်၊ အမှောင်ကနေ ခွဲခြားပြီးတော့၊ အမှောင်ကို “ည” လို့ သတ်မှတ်တယ်။  ဒီလိုနဲ့ ပထမနေ့မှာ အလင်းကို ဖန်ဆင်းတယ်။
 
 {{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-01-03.jpg?direct&}}
 
