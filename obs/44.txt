@@ -1,58 +1,39 @@
-====== 44. Peter and John Heal a Beggar ======
+====== ၄၄။ တောင်းစားသူတစ်ယောက်အား ပေတရုနှင့် ယောဟန် မှ ပျောက်ကင်းစေခြင်း ======
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-01.jpg?direct&}}
 
-One day, Peter and John were going to the Temple. As they approached the Temple gate, they saw a crippled man who was begging for money.
+တနေ့မှာ ပေတရုနဲ့ ယောဟန်တို့ဟာ ဗိမာန်တော်ကို သွားခဲ့ကြတယ်။  ဗိမာန်တော်ရဲ့ မုဒ်ဦးနားကို ရောက်တဲ့အခါမှာ ခြေတောက်မသန်တဲ့ လူတစ်ယောက်ကို တွေ့ခဲ့တယ်။  အဲဒီလူဟာ တောင်းရမ်း စားသောက်နေသူ ဖြစ်တယ်။
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg?direct&}}
 
+ပေတရုက အဲဒီလူကို ကြည့်ပြီး “ငါ့မှာ ရွှေတွေငွေတွေတော့ မရှိဘူး ဒါပေမဲ့ ရှိတဲ့အရာကိုတော့ မင်းကို ပေးမယ်။  အရှင်ယေရှုရဲ့နာမနဲ့ ထပြီးလှမ်းသွားပါ” လို့ ပြောလိုက်တယ်။
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-02.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg?direct&}}
 
-Peter looked at the lame man and said, "I do not have any money to give you. But I will give you what I do have. In the name of Jesus, get up and walk!"
+ဘုရားသခင်က အဲဒီ ခြေမသန်တဲ့သူကို ချက်ခြင်းပဲ ပျောက်စေခဲ့တယ်။  အဲဒီလူက လမ်းလျှောက်နိုင်သွားပြီးတော့ ဘုရားသခင်ကိုလည်း ကခုန်ပြီးချီးမွမ်းတယ် ။  အဲဒီအနားမှာ ရှိတဲ့ လူတွေအားလုံး အံ့သြခဲ့ကြတယ်။
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg?direct&}}
 
+လူတစ်အုပ်က အမြန်ရောက်လာပြီး အဲဒီခြေတောက်မသန်တာ ပျောက်ကင်းသွားတဲ့သူကို လာကြည့်ကြတယ်။  သူတို့ကို ပေတရုက “ခင်ဗျားတို့ဘာကြောင့် ဒီလူကိုကြည့်ပြီး အံ့သြကြတာလဲ။  အဲဒီလို ပျောက်ကင်းနိုင်အောင် ငါတို့က ကိုယ့်တန်ခိုး ကိုယ့်သီလနဲ့ လုပ်ခဲ့တာ မဟုတ်ဘူး။  အရှင်ယေရှု ရဲ့ တန်ခိုးတော်ကြောင့်သာ အဲဒီလူကို ပျောက်ကင်းစေခဲ့တာ ဖြစ်တယ်” လို့ ပြောခဲ့တယ်။
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-03.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg?direct&}}
 
-Immediately, God healed the lame man, and he began to walk and jump around, and to praise God. The people in the courtyard of the Temple were amazed.
+မင်းတို့ဟာ တစ်ချိန်တုန်းက အရှင်ယေရှုကို သတ်ဖို့ ရောမအစိုးရကို ပြောခဲ့တယ်။  သူ့အသက်ကိုလည်း သတ်ခဲ့တယ် ဒါပေမဲ့ ဘုရားသခင်က သူ့ကို သေရာကနေ ပြန်ရှင်အောင် လုပ်ခဲ့တယ်။  မင်းတို့ ဘာလုပ်တယ်ဆိုတာ မင်းတို့ နားမလည်ခဲ့ပေမဲ့လည်းပဲ မင်းတို့ လုပ်တာတွေက ကယ်တင်ရှင် ဝေဒနာ ခံစားပြီးတော့ သေ ရမယ် ဆိုတဲ့ ဘုရားစကားကိုလိုက်ပြောပေးသူတွေရဲ့ ကြိုတင်ဟောထားတဲ့အချက် ကို ပြည့်စုံဖို့ ဘုရားသခင်က မင်းတို့ရဲ့ လုပ်ဆောင်ချက်ကို အသုံးပြုပြီ။  အဲဒါကြောင့် အခု နောင်တရပြီး ဘုရားသခင်ဆီကို ပြန်လှည့်ပါ ဒါဆိုရင် မင်းတို့ရဲ့အပြစ်တွေကို စင်အောင်ဆေးကြောပေးလိမ့်မယ်။
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg?direct&}}
 
+ဗိမာန်တော်ရဲ့ ခေါင်းဆောင်တွေက ပေတရုနဲ့ ယောဟန် ပြောဆိုချက်တွေကို အရမ်း စိတ်ဆိုးခဲ့ကြ တယ်။  အဲဒါကြောင့် သူတို့ကို ဖမ်းပြီး ထောင်ချလိုက်တယ်။  ဒါပေမဲ့ ပေတရုရဲ့ သတင်းစကားကို လူအများကြီးက ယုံကြည်ခဲ့ကြပြီးတော့ အရှင်ယေရှုကို ယုံကြည်တဲ့ ​ယောက်ကျား အရေအတွက်ကြီးပဲ ၅၀၀၀- လောက် တိုးပွားခဲ့တယ်။
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-04.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg?direct&}}
 
-A crowd of people quickly came to see the man who was healed. Peter said to them, "Why are you amazed that this man is healed? We did not heal him through our own power or goodness. Rather, it is the power of Jesus and the faith that Jesus gives that healed this man."
+နောက်တစ်နေ့မှာ ဂျူးခေါင်းဆောင်တွေဟာ ပေတရုနဲ့ ယောဟန်ကို အကြီးဆုံး ဂျူးဘာသာရေးခေါင်းဆောင် နဲ့ အခြား ဂျူးဘာသာရေး ခေါင်းဆောင်တွေ ဆီကို ခေါ်သွားတယ်။  သူတို့က “ဒီ ခြေတောက် မသန်တဲ့သူကို ဘယ်သူ့တန်ခိုးနဲ့ ပျောက်အောင်ကုခဲ့တာလဲ” လို့ မေးတယ်။
 
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg?direct&}}
 
+ပေတရုက “ခင်ဗျားတို့ အရှေ့မှာ ရပ်နေတဲ့ ဒီလူဟာ ကယ်တင်ရှင် အရှင်ယေရှုရဲ့ တန်ခိုးနဲ့ ပျောက်ကင်းခဲ့တာပါ။  ခင်ဗျားတို့ အရှင်ယေရှုကို သတ်ခဲ့တယ် ဒါပေမဲ့ ဘုရားသခင်က သူ့ကို ပြန်ပြီး အသက်ရှင်စေတယ်။  အဲဒီအရှင်ကို ခင်ဗျားတို့ ငြင်းပယ်ခဲ့တယ် ဒါပေမဲ့ ဒီအရှင်ယေရှုရဲ့ တန်ခိုးနဲ့ ကယ်တင်ဖို့က လွဲရင် အခြား ဘာနည်းလမ်းမှ မရှိဘူး” လို့ သူတို့ကို ပြန်ဖြေတယ်။
 
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-05.jpg}}
+{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg?direct&}}
 
-"You are the ones who told the Roman governor to kill Jesus. You killed the author of life, but God raised him from the dead. Although you did not understand what you were doing, God used your actions to fulfill the prophecies that the Messiah would suffer and die. So now, repent and turn to God so that your sins will be washed away."
+ပေတရုနဲ့ ယောဟန် အရမ်း ပြတ်ပြတ်သားသား ပြောဆိုတဲ့အပေါ်မှာ ဂျူးခေါင်းဆောင်တွေက လန့်သွားတယ် ဘာကြောင့်လဲဆို တော့ ဒီလူတွေဟာ ပညာမတတ်တဲ့ ရိုးရိုးသာမန် လူတန်းစားပဲ ဖြစ်တယ်ဆိုတာ သူတို့ သိနေလို့ပါပဲ။  ဒါပေမဲ့ နောက်ပိုင်း သူတို့ သတိရလိုက်တာက ဒီလူတွေဟာ အရှင်ယေရှုနဲ့အတူ ရှိခဲ့ တယ် ဆိုတာပါပဲ။  သူတို့တွေ ပေတရုနဲ့ ယောဟန်ကို စစ်ဆေးပြီးတဲ့ နောက်မှာ လွှတ်လိုက်ပါတော့ တယ်။
 
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-06.jpg}}
-
-The leaders of the Temple were very upset by what Peter and John were saying. So they arrested them and put them into prison. But many of the people believed Peter's message, and the number of men who believed in Jesus grew to about 5,000.
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-07.jpg}}
-
-The next day, the Jewish leaders brought Peter and John to the high priest and the other religious leaders. They asked Peter and John, "By what power did you heal this crippled man?"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-08.jpg}}
-
-Peter answered them, "This man stands before you healed by the power of Jesus the Messiah. You crucified Jesus, but God raised him to life again! You rejected him, but there is no other way to be saved except through the power of Jesus!"
-
-
-
-{{https://api.unfoldingword.org/obs/jpg/1/en/360px/obs-en-44-09.jpg}}
-
-The leaders were shocked that Peter and John spoke so boldly because they could see that these men were ordinary men who were uneducated. But then they remembered that these men had been with Jesus. After they threatened Peter and John, they let them go.
-
-
-//A Bible story from: Acts 3:1-4:22//
-
-
+အခြေပြုကျမ်းညွှန်း -   တမန်တော်ဝတ္ထု ၃:၁-၄:၂၂
