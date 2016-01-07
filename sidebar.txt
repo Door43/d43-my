@@ -7,6 +7,10 @@
 
 **Resources**
 
+  * [[:my:bible:notes:home|translationNotes]]
+  * [[:my:bible:questions:comprehension:home|translationQuestions]]
+  * [[:my:obe:home|translationWords]]
+  * [[:my:ta:vol1:toc|translationAcademy Vol 1]]
   * [[my:obs|Open Bible Stories (my)]]
 
 **Downloads**

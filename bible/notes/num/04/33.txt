@@ -1,0 +1,46 @@
+====== Numbers 04:33 ======
+
+===== TFT: =====
+
+<usfm>
+\v 33 Those are the tasks that the descendants of Merari must do at the Sacred Tent. Aaron's son Ithamar is the one who will supervise them."
+
+\p
+</usfm>
+
+===== UDB: =====
+
+<usfm>
+\v 33 Those are the tasks that the descendants of Merari must do at the sacred tent. Aaron's son Ithamar is the one who will supervise them."
+
+
+
+\p
+</usfm>
+
+===== ULB: =====
+
+<usfm>
+\v 33 This is the service of the clans of the descendants of Merari, what they are to do for the tent of meeting, under the direction of Ithamar son of Aaron the priest."
+</usfm>
+
+===== Important Terms: =====
+
+  * [[my:obe:other:serve]]
+  * [[my:obe:other:clan]]
+  * [[my:obe:other:descendant]]
+  * [[my:obe:other:aaron]]
+  * [[my:obe:kt:priest]]
+
+===== Translation Notes: =====
+
+  * **under the direction of Ithamar son of Aaron the priest** - AT: "as Ithamar son of Aaron the priest directs them" (See: [[:my:ta:vol2:translate:figs_abstractnouns]])
+
+===== Links: =====
+
+  * **[[:my:bible:questions:comprehension:num:04|Numbers Chapter 04 Comprehension Questions]]**
+**[[:my:bible:notes:num:04:31|<<]] | [[:my:bible:notes:num:04:34|>>]]**
+
+~~DISCUSSION~~{{tag>publish}}
+
+~~NOCACHE~~

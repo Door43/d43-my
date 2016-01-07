@@ -1,10 +1,16 @@
-====== Complete List of Important Terms - Burmese ======
+====== Complete List of Important Terms - English ======
 
 ==== "Key Terms" and "Other Terms" in the OBE Directory: ====
 
   * [[:my:obe:kt:home]]
   * [[:my:obe:other:home]]
 
-==== All Important Terms: ====
+==== Does a term need to be in either of these lists? ====
+  * [[:my:bible:team-info:training:topics:kt-yes-no]]
+  * [[my:bible:team-info:training:topics:common-words]] - If it's on this list, most likely not.
+  * [[:my:bible:admin-reports:obe-admin:obe-reject]] - If it's on this list, no.
+
+==== All Terms in the OBE: ====
 
 <nspages my:obe -r -title -exclude:home -textPages="">
+

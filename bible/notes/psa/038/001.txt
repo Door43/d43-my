@@ -1,0 +1,73 @@
+====== Psalms 038:1-2 ======
+
+
+===== TFT: =====
+
+<usfm>
+\v 1 Yahweh, when you are angry \add with me\add*,
+\q2 do not rebuke\f + \ft Or: scold \f* me and punish me!
+\q1
+\v 2 \add Now it is as though\add* you have shot your arrows at me and wounded me;
+\q2 you have struck me and knocked me down.
+\q1
+</usfm>
+
+
+===== UDB: =====
+
+<usfm>
+\v 1 Yahweh, when you are angry with me,
+\q2 do not rebuke me and punish me!
+\q1
+\v 2 Now it is as though you have shot your arrows at me and wounded me;
+\q2 it is as though you have struck me and knocked me down.
+
+
+\q1
+</usfm>
+
+
+===== ULB: =====
+
+<usfm>
+\c 38
+\d A psalm of David, to bring to remembrance.
+\b
+\q
+\v 1 Yahweh, do not rebuke me in your anger;
+\q do not punish me in your wrath.
+\q
+\v 2 For your arrows pierce me,
+\q and your hand presses me down.
+</usfm>
+
+
+===== Important Terms: =====
+
+  * [[:my:obe:other:psalm|psalm]]
+  * [[:my:obe:other:david|David]]
+  * [[:my:obe:kt:yahweh|Yahweh]]
+  * [[:my:obe:other:rebuke|rebuke]]
+  * [[:my:obe:other:angry|angry, anger]]
+  * [[:my:obe:other:punish|punish, punishment]]
+  * [[:my:obe:kt:wrath|wrath]]
+  * [[:my:obe:other:bowweapon|bow and arrow]]
+  * [[:my:obe:other:hand|hand]]
+
+===== Translation Notes: =====
+
+See: [[:my:ta:workbench:translate:poetry|Translating Poetry]] and [[:my:ta:vol2:translate:figs_parallelism|Parallelism]]
+
+  * **A psalm of David, to bring to remembrance**  - AT: “This is a psalm that David wrote to remember what God has done in the past.”
+  * **Yahweh, do not rebuke me in your anger; do not punish me in your wrath.**- (See: [[:my:ta:vol2:translate:figs_parallelism]])
+  * **For your arrows pierce me, - **  AT: "Yahweh has penetrated my life with punishment." (See: [[:my:ta:vol1:translate:figs_metaphor]] and [[:my:ta:vol2:translate:figs_hyperbole]])
+  * **and your hand presses me down.**  - AT: "Yahweh's power and authority pushes me down." (See: [[:my:ta:vol2:translate:figs_synecdoche]] and [[:my:ta:vol2:translate:figs_hyperbole]])
+
+===== Links: =====
+
+  * **[[:my:bible:questions:comprehension:psa:038|Psalms Chapter 038 Comprehension Questions]]**
+**[[:my:bible:notes:psa:037:039|<<]] | [[:my:bible:notes:psa:038:003|>>]]**
+
+~~DISCUSSION~~{{tag>publish book1}}
+
+~~NOCACHE~~

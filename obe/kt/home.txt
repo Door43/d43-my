@@ -3,7 +3,7 @@
 Link to [[:my:obe:other:home]] \\ 
 Link to [[:my:obe:home]]
 
-<nspages my:obe:kt -title -exclude:home -textPages="">
 
+<nspages my:obe:kt -title -exclude:home -textPages="">
 
 ~~NOCACHE~~
