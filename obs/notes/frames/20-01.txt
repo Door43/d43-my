@@ -7,12 +7,12 @@ The **kingdom of Israel** and the **kingdom of Judah** both **sinned** against *
 ===== Important Terms: =====
 
 
-  * **[[:my:obe:other:kingdom-of-israel]]**
-  * **[[:my:obe:other:kingdom-of-judah]]**
+  * **[[:my:obe:other:kingdomofisrael]]**
+  * **[[:my:obe:other:kingdomofjudah]]**
   * **[[:my:obe:kt:sin]]**
   * **[[:my:obe:kt:god]]**
   * **[[:my:obe:kt:covenant]]**
-  * **[[:my:obe:kt:sinai]]**
+  * **[[:my:obe:other:sinai]]**
   * **[[:my:obe:kt:prophet]]**
   * **[[:my:obe:kt:repent]]**
   * **[[:my:obe:kt:worship]]**
